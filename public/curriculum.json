@@ -263,12 +263,6 @@
           "Required": true
         },
         {
-          "Subject": "数学B / C",
-          "Category": "数学",
-          "Credits": 2,
-          "Required": true
-        },
-        {
           "Subject": "地学基礎",
           "Category": "理科",
           "Credits": 2,
@@ -284,6 +278,12 @@
           "Subject": "英語コミュニケーション III",
           "Category": "英語",
           "Credits": 4,
+          "Required": true
+        },
+        {
+          "Subject": "数学B / C",
+          "Category": "数学",
+          "Credits": 2,
           "Required": true
         },
         {
